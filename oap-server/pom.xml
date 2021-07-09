@@ -63,7 +63,7 @@
         <zookeeper.version>3.5.7</zookeeper.version>
         <netty-tcnative-boringssl-static.version>2.0.39.Final</netty-tcnative-boringssl-static.version>
         <jetty.version>9.4.40.v20210413</jetty.version>
-        <h2.version>1.4.196</h2.version>
+        <h2.version>1.4.197</h2.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-io.version>2.6</commons-io.version>
         <elasticsearch.version>6.3.2</elasticsearch.version>
