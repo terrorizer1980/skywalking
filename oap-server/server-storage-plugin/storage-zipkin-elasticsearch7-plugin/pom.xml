@@ -27,7 +27,7 @@
 
     <artifactId>storage-zipkin-elasticsearch7-plugin</artifactId>
     <properties>
-        <elasticsearch.version>7.5.0</elasticsearch.version>
+        <elasticsearch.version>7.17.14</elasticsearch.version>
     </properties>
 
     <dependencies>
