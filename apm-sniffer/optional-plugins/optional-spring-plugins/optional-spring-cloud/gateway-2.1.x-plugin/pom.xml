@@ -33,7 +33,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <spring-cloud-starter-gateway.version>2.1.1.RELEASE</spring-cloud-starter-gateway.version>
+        <spring-cloud-starter-gateway.version>4.1.6</spring-cloud-starter-gateway.version>
     </properties>
 
     <dependencies>
